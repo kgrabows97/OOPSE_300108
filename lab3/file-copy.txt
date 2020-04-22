@@ -1,0 +1,5 @@
+pepsi   10
+fanta   6
+coke   10
+juice   4
+redbull   1

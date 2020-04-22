@@ -1,0 +1,5 @@
+pepsi   2
+coke   2
+juice   6
+fanta   10
+sprite   10
